@@ -1,6 +1,6 @@
 ## Code Review
 
-Your task is to review a [pull request](https://github.com/avdavies/code-review/pull/1) for the following made-up ticket:
+Your task is to review a [pull request](https://github.com/SteveJohnston/code-review/pull/1) for the following made-up ticket:
 
 ```
 Write an AWS Lambda function that:
